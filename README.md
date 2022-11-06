@@ -1,5 +1,4 @@
 ![ScreenShot](https://github.com/rahulverman121/Articuno/blob/main/scrarticuno.png)
-![ScreenShot](https://github.com/rahulverman121/rahul-verman-Portfolio/blob/main/src/assets/Screenshot%20RAHUL%20VERMAN%20Portfolio.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
